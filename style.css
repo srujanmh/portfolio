@@ -1,0 +1,4 @@
+body { font-family: Arial; }
+.hero { padding: 60px; background: #f8f9fa; }
+.profile-img { width: 150px; border-radius: 50%; }
+.card:hover { transform: scale(1.05); transition: 0.3s; }
